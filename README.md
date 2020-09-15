@@ -15,6 +15,7 @@ A. Communicates with API
 B. Creates & manages sessions
 C. Checks if market is open or closed
 D. Conducts trades and other orders
-E. Uses signals
-F. 
+## PORTFOLIO
+A.Manages positions
+B. Reports on stock value, boolean metric for profitability, etc
 
