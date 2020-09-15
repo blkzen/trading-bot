@@ -1,7 +1,7 @@
 # trading-bot
 Trading Bot
 
-A trading bot using a pre-existing API.
+A trading bot using a pre-existing brokerage API.
 
 ## GOALS:
 1. Make a scalable profit
@@ -12,4 +12,9 @@ A trading bot using a pre-existing API.
 ## ELEMENTS:
 Bot
 A. Communicates with API
+B. Creates & manages sessions
+C. Checks if market is open or closed
+D. Conducts trades and other orders
+E. Uses signals
+F. 
 
