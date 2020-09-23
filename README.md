@@ -8,6 +8,7 @@ A trading bot using a pre-existing brokerage API.
 1. Make a scalable profit
 2. Fully auomate the trading process
 3. Accept different trading techniques
+4. Mitigate trading risk
 
 
 
