@@ -31,4 +31,4 @@ B. Reports on stock value, boolean metric for profitability, etc
 ## INDICATORS
 A. Receive, Set, and Compare Indicators
 B. Track Movement
-C. Use trading technique to assess risk
+C. Use various trading technique to assess risk
