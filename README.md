@@ -3,7 +3,7 @@ Trading Bot
 
 A trading bot using a pre-existing brokerage API.
 
-## GOALS:
+# GOALS:
 
 1. Make a scalable profit
 2. Fully auomate the trading process
@@ -11,7 +11,7 @@ A trading bot using a pre-existing brokerage API.
 
 
 
-## ELEMENTS:
+### ELEMENTS:
 
 Bot
 A. Communicates with API
@@ -21,14 +21,14 @@ D. Conducts trades and other orders
 
 
 
-## PORTFOLIO
+### PORTFOLIO
 
 A.Manages positions
 B. Reports on stock value, boolean metric for profitability, etc
 
 
 
-## INDICATORS
+### INDICATORS
 A. Receive, Set, and Compare Indicators
 B. Track Movement
 C. Use various trading technique to assess risk
