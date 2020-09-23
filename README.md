@@ -1,4 +1,4 @@
-# trading-bot
+# Trading-Bot
 Trading Bot
 
 A trading bot using a pre-existing brokerage API.
