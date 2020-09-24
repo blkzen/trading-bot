@@ -13,10 +13,10 @@ A trading bot using a pre-existing brokerage API.
 
 
 
-### ELEMENTS:
+## ELEMENTS:
 
 
-Bot
+### Bot
 
 A. Communicates with API
 
