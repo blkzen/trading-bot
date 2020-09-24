@@ -48,4 +48,6 @@ C. Use various trading technique to assess risk
 
 D.Collect indicateor information cohesively
 
-E. Create and respond to Buy & Sell signals
+E. Create and respond to Buy & Sell indicator signals**
+
+F. 
