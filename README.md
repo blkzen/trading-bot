@@ -16,18 +16,6 @@ A trading machine using a pre-existing brokerage API.
 ## ELEMENTS:
 
 
-### MACHINE (Back-end)
-
-A. Communicates with API
-
-B. Creates & manages sessions
-
-C. Checks if market is open or closed
-
-D. Conducts trades and other orders
-
-
-
 
 ### PORTFOLIO
 
@@ -62,4 +50,19 @@ A. Differ trade types
 B. Process trade instruction
 
 B. Assign unique identification to each trade (for tracking and machine optimization)
+
+
+
+
+### MACHINE (Back-end)
+
+A. Communicates with API
+
+B. Creates & manages sessions
+
+C. Checks if market is open or closed
+
+D. Conducts trades and other orders
+
+
 
