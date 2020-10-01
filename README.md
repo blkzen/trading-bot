@@ -58,4 +58,4 @@ E. Create and respond to Buy & Sell indicator signals**
 
 
 A. Differ trade types
-B. 
+B. Assign unique identification to ech trade in dataframe 
