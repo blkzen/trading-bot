@@ -57,3 +57,5 @@ E. Create and respond to Buy & Sell indicator signals**
 ### TRADE
 
 
+A. Differ trade types
+B. 
