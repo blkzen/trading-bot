@@ -66,3 +66,6 @@ D. Conducts trades and other orders
 
 
 
+### MACHINE (Front)
+
+A.
