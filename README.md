@@ -1,7 +1,7 @@
-# Trading-Bot
-Trading Bot
+# Trading-Machine
+Trading Machine
 
-A trading bot using a pre-existing brokerage API.
+A trading machine using a pre-existing brokerage API.
 
 # GOALS:
 
@@ -16,7 +16,7 @@ A trading bot using a pre-existing brokerage API.
 ## ELEMENTS:
 
 
-### Bot
+### MACHINE (Back-end)
 
 A. Communicates with API
 
