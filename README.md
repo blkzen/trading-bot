@@ -58,4 +58,8 @@ E. Create and respond to Buy & Sell indicator signals**
 
 
 A. Differ trade types
-B. Assign unique identification to ech trade in dataframe 
+
+B. Process trade instruction
+
+B. Assign unique identification to each trade (for tracking and machine optimization)
+
