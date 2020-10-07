@@ -70,4 +70,4 @@ D. Conducts trades and other orders
 
 A. Tracks orders 
 B. Adds all orders to dataframe
-C. 
+C. Reports funds available
