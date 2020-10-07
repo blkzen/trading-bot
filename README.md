@@ -69,5 +69,5 @@ D. Conducts trades and other orders
 ### MACHINE (Front)
 
 A. Tracks orders 
-B.
+B. Adds all orders to dataframe
 C. 
