@@ -70,8 +70,10 @@ D. Conducts trades and other orders
 
 A. Tracks orders 
 
-B. Adds all orders to dataframe
+B. Adds all orders to a dataframe
 
 C. Reports funds available
 
 D. Fetches positions of user stocks
+
+E. Parse positions to a dataframe
