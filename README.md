@@ -68,4 +68,6 @@ D. Conducts trades and other orders
 
 ### MACHINE (Front)
 
-A.
+A. Tracks orders 
+B.
+C. 
