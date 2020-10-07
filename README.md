@@ -74,4 +74,4 @@ B. Adds all orders to dataframe
 
 C. Reports funds available
 
-D. 
+D. Fethces positions of user stocks
