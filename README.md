@@ -66,7 +66,7 @@ D. Conducts trades and other orders
 
 
 
-### MACHINE (Front)
+### MACHINE (Front-end)
 
 A. Tracks orders 
 
