@@ -30,7 +30,7 @@ B. Reports on stock value, boolean metric for profitability, etc
 ### INDICATORS
 
 
-A. Receive, Set, and Compare Indicators
+A. Receive, set, and compare trade indicators
 
 B. Track Movement
 
