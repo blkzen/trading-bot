@@ -52,7 +52,7 @@ A. Differ trade types
 
 B. Process trade instruction
 
-B. Assign unique identification to each trade (for tracking and machine optimization)
+C. Assign unique identification to each trade (for tracking and machine optimization)
 
 
 
