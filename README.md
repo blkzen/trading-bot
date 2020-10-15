@@ -40,7 +40,7 @@ D.Collect indicateor information cohesively
 
 E. Create and respond to Buy & Sell indicator signals**
 
-F.
+F. Use statistical formulas
 
 
 ### TRADE
