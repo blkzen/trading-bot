@@ -42,7 +42,7 @@ E. Create and respond to Buy & Sell indicator signals**
 
 F. Use statistical formulas
 
-G.
+G. Use stock technique to mitigate risk
 
 
 ### TRADE
