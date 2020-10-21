@@ -87,3 +87,4 @@ F. Return stock details on request
 
 
 ## Execution
+A. Code orders for machine to follow
