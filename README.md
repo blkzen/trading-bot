@@ -91,4 +91,6 @@ A. Code orders for machine to follow
 
 B. Analyze results of trades
 
-C. Adjust machine hyperparameters to mitigate loss and maximize gain
+C. Adjust machine hyperparameters if major loss occurs
+
+D. Mitigate loss and maximize gain
