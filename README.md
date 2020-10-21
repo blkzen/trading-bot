@@ -82,3 +82,8 @@ D. Fetches positions of user stocks
 E. Parse positions to a dataframe
 
 F. Return stock details on request
+
+
+
+
+## Execution
