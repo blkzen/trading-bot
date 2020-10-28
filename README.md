@@ -87,6 +87,7 @@ F. Return stock details on request
 
 
 ## OPERATION
+
 A. Code orders for machine to follow
 
 B. Analyze results of trades
