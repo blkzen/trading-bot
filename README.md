@@ -100,3 +100,6 @@ D. Mitigate loss and maximize gain
 ## EXECUTION
 
 A. Sign into TD-Ameritrade
+
+B. Add funds to account (under $200)
+
