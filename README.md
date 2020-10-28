@@ -98,3 +98,4 @@ D. Mitigate loss and maximize gain
 
 ## EXECUTION
 
+A. Sign into TD-Ameritrade
