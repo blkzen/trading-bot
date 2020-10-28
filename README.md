@@ -103,3 +103,5 @@ A. Sign into TD-Ameritrade
 
 B. Add funds to account (under $200)
 
+C. Write a script to conduct trades
+
