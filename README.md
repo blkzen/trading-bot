@@ -94,3 +94,7 @@ B. Analyze results of trades
 C. Adjust machine hyperparameters if major loss occurs
 
 D. Mitigate loss and maximize gain
+
+
+## EXECUTION
+
