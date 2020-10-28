@@ -105,3 +105,4 @@ B. Add funds to account (under $200)
 
 C. Write a script to conduct trades
 
+D. Document trade results
