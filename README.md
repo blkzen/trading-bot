@@ -1,4 +1,4 @@
-# Trading-Machine
+# Trading-Machine-Blueprint
 Trading Machine
 
 A trading machine using a pre-existing brokerage API.
