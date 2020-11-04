@@ -113,3 +113,5 @@ E. Prove/Disprove effective automated strategies
 ### THREATS
 
 A. Overfitting
+
+B. Well-trained model with bad long-term performance where stakes are significantly higher
