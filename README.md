@@ -99,7 +99,7 @@ D. Mitigate loss and maximize gain
 
 ### EXECUTION
 
-A. Sign into TD-Ameritrade
+A. Sign into brokerage API
 
 B. Add funds to account (under $200)
 
