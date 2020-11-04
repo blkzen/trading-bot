@@ -86,7 +86,7 @@ F. Return stock details on request
 
 
 
-## OPERATIONS
+### OPERATIONS
 
 A. Code orders for machine to follow
 
@@ -97,7 +97,7 @@ C. Adjust machine hyperparameters if major loss occurs
 D. Mitigate loss and maximize gain
 
 
-## EXECUTION
+### EXECUTION
 
 A. Sign into TD-Ameritrade
 
