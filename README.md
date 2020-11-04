@@ -86,7 +86,7 @@ F. Return stock details on request
 
 
 
-## OPERATION
+## OPERATIONS
 
 A. Code orders for machine to follow
 
@@ -106,3 +106,6 @@ B. Add funds to account (under $200)
 C. Write a script to conduct trades
 
 D. Document trade results
+
+
+
