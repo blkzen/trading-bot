@@ -107,5 +107,5 @@ C. Write a script to conduct trades
 
 D. Document trade results
 
-
+E. Prove/Disprove effective automated strategies
 
