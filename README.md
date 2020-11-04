@@ -109,3 +109,5 @@ D. Document trade results
 
 E. Prove/Disprove effective automated strategies
 
+
+### THREATS
