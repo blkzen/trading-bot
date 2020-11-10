@@ -6,8 +6,8 @@ A trading machine using a pre-existing brokerage API to automate the trading pro
 # GOALS:
 
 
-1. Make a scalable profit
-2. Fully auomate the trading process
+1. Fully auomate the trading process
+2. Make a scalable profit
 3. Accept different trading techniques
 4. Mitigate trading risk
 5. Scale automated trading process
