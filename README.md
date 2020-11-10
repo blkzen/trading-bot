@@ -1,7 +1,7 @@
 # Trading-Machine-Blueprint
 Trading Machine
 
-A trading machine using a pre-existing brokerage API.
+A trading machine using a pre-existing brokerage API to automate the trading process.
 
 # GOALS:
 
