@@ -111,6 +111,7 @@ E. Prove/Disprove effective automated strategies
 
 F. Create interface to easily conduct automated trades
 
+G. (Optional) Create & Deploy UI for more appealing use.
 
 ### THREATS
 
