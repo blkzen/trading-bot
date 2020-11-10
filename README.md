@@ -117,3 +117,5 @@ A. Overfitting
 B. Well-trained model with bad long-term performance where stakes are significantly higher
 
 C. False positives
+
+D. Repeatability
