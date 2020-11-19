@@ -21,7 +21,7 @@ A trading machine using a pre-existing brokerage API to automate the trading pro
 ### PORTFOLIO
 
 
-A.Manages positions
+A. Manages positions
 
 B. Reports on stock value, boolean metric for profitability, etc
 
