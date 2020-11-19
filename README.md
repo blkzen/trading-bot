@@ -46,6 +46,7 @@ F. Use statistical formulas
 G. Use stock technique to mitigate risk
 
 
+
 ### TRADE
 
 
@@ -54,7 +55,6 @@ A. Differ trade types
 B. Process trade instruction
 
 C. Assign unique identification to each trade (for tracking and machine optimization)
-
 
 
 
