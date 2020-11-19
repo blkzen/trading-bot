@@ -23,7 +23,7 @@ A trading machine using a pre-existing brokerage API to automate the trading pro
 
 A. Manages positions
 
-B. Reports on stock value, boolean metric for profitability, etc
+B. Reports on stock value, boolean metric for profitability, etc.
 
 
 
