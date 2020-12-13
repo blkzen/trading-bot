@@ -37,13 +37,15 @@ B. Track Movement
 
 C. Use various trading technique to assess risk
 
-D.Collect indicateor information cohesively
+D. Collect indicateor information cohesively
 
 E. Create Buy & Sell indicator signals
 
-F. Use statistical formulas
+F. Respond to Buy & Sell indicator signals
 
-G. Use stock technique to mitigate risk
+G. Use statistical formulas
+
+H. Use stock technique to mitigate risk
 
 
 
