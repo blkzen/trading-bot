@@ -39,7 +39,7 @@ C. Use various trading technique to assess risk
 
 D.Collect indicateor information cohesively
 
-E. Create and respond to Buy & Sell indicator signals
+E. Create Buy & Sell indicator signals
 
 F. Use statistical formulas
 
